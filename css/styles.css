@@ -1,0 +1,61 @@
+.degradado-desc {
+  background-color: rgba(0, 0, 0, 0.6);
+  bottom: 0px;
+  color: white;
+  font-size: 1.2;
+  left: 0px;
+  padding: 10px 15px;
+  position: absolute;
+  transition: 0.5s padding;
+  text-align: center;
+  width: 100%;
+}
+
+.centrado {
+  text-align: right;
+  padding: 0.5;
+}
+
+.textizq {
+  text-align: left;
+  padding: 0.5;
+}
+
+.TextoDer {
+  position: inherit;
+  left: 40%;
+  font-size: 1.5vw;
+}
+
+.textoAbajo {
+  position: relative;
+  bottom: -35%;
+}
+
+.texto-negro {
+  color: black;
+}
+
+.alineadoIzq {
+  text-align: left;
+  padding: 0;
+}
+
+.divDoble {
+  background-color: #353030;
+  max-width: auto;
+  min-width: 300;
+}
+
+.botonEnviar {
+    background-color: #95c842 !important;
+  border-color: #95c842 !important;
+}
+
+.pie {
+  background-color: #1c445a;
+}
+.justify{
+  display: flex;
+  justify-content: space-around;
+}
